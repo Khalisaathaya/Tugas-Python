@@ -1,2 +1,2 @@
 # Tugas-Python
-Tugas Python Minggu X
+Tugas Python 
